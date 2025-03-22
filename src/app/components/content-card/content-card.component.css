@@ -1,0 +1,15 @@
+#content-card {
+    font-size: 40px;
+    font-weight: 400;
+    text-align: left;    
+}
+
+#content-card-span {
+    color: hsl(256, 67%, 59%);
+    font-style: italic;
+}
+
+#content-card-img {
+    margin-top: 10px;
+    height: 100px;
+}
