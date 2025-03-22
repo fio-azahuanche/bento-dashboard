@@ -1,0 +1,26 @@
+#growth-card {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#growth-card-img {
+    width: 70%;
+    margin-top: 20px;
+}
+
+#growth-text {
+    text-align: left;
+}
+
+#growth-card-porcent {
+    margin: 0;
+    font-size: 60px;
+}
+
+#growth-card-text {
+    margin: 0;
+    font-size: 20px;
+}
