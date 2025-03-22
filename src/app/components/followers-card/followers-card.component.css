@@ -1,0 +1,13 @@
+#followers-card {
+    margin-left: 5px;
+}
+
+#followers-card-img {
+    height: 50px;
+}
+
+#followers-card-text {
+    font-size: 25px;
+    line-height: 25px;
+    text-align: left;
+}
