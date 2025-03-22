@@ -1,0 +1,15 @@
+#stats-card {
+    display: flex;
+    align-items: center;
+}
+
+#stats-card-img {
+    height: 200px;
+}
+
+#stats-card-text {
+    font-size: 40px;
+    color: white;
+    line-height: 35px;
+    text-align: left;
+}
